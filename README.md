@@ -26,7 +26,8 @@ Type2Speak is a modern, feature-rich Text-to-Speech Android application built wi
 - **Voice Gender**: Toggle between Normal and Deep voice
 - **Accent Variation**: Authentic regional accents when switching languages
 
-### 🎨 Modern UI Design![Uploading Type2Speak 10.png…]()
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bf13277c-173f-4689-847e-ec5544914ed7" />
+
 
 - **Material Design 3**: Latest design guidelines
 - **Card-based Layout**: Organized, professional interface
