@@ -17,6 +17,8 @@ import android.content.Intent
 import androidx.compose.animation.core.*
 import androidx.compose.ui.draw.scale
 import kotlinx.coroutines.*
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 
 
 
@@ -34,7 +36,9 @@ fun TTSScreen(
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .padding(16.dp),
+        .verticalScroll(rememberScrollState())
+            .padding(16.dp)
+            .padding(bottom=48.dp),
         verticalArrangement = Arrangement.spacedBy(16.dp)
     ) {
         //Title
